@@ -11,3 +11,7 @@ int main(){
     printf("%f\n",si);
     return 0;
 }
+
+/*OUTPUT:
+255.000000
+*/
